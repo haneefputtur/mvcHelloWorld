@@ -1,0 +1,6 @@
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\System.IO.Compression.dll
+c:\users\mhaneef\source\repos\HelloWorld\HelloWorld\bin\roslyn\VBCSCompiler.exe
